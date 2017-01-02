@@ -1,0 +1,4 @@
+NonVisualJoystick.Droid.MainActivity, NonVisualJoystick.Droid;md5e475d2c0139acb599af4afdfad9729cd.MainActivity
+NonVisualJoystick.Droid.MainActivity, NonVisualJoystick.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e475d2c0139acb599af4afdfad9729cd.MainActivity
+NonVisualJoystick.Droid.MainActivity;md5e475d2c0139acb599af4afdfad9729cd.MainActivity
+nonvisualjoystick.droid.MainActivity;md5e475d2c0139acb599af4afdfad9729cd.MainActivity
